@@ -24,5 +24,5 @@ I'm a Stockholm 🇸🇪 (previously London 🇬🇧) based Software Developer w
 * [White Bread](https://github.com/meadsteve/white-bread) - Story BDD tool written in Elixir. Based on cucumber
 * Lots of silly mistakes
 
-## Climate 🌱
+## Climate 🌳
 Want to help me reduce my climate impact? Then visit here to donate: https://offset.earth/mottraziers
