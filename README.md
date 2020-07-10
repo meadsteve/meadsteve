@@ -1,16 +1,19 @@
-### Hi there 👋
+## Steve Brazier - MeadSteve 😄
+I'm a Stockholm (previously London) based Software Developer who has worked with a number of languages (including Python, PHP, JavaScript/TypeScript, C#, Elixir/Erlang) and environments. At the moment I mostly develop in [Python](https://blog.meadsteve.dev/python/). I work as a back-end consultant at [0+x](https://0x.se/).
+## Things I Love ❤️
+* Mashing typing and static analysis onto dynamically typed languages
+* Deleting code
+* Avoiding writing code in the first place
+* Kanban
+* Walking
 
-<!--
-**meadsteve/meadsteve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Some Things I've Made 🔧
+* [The British food generator](https://british-food-generator.herokuapp.com)
+* [Are you a banana?](https://banana.meadsteve.dev)
+* [Dice API](http://roll.diceapi.com/) - roll some dice. But webscale
+* [Lagom](https://github.com/meadsteve/lagom) - A type based DI container for Python
+* [White Bread](https://github.com/meadsteve/white-bread) - Story BDD tool written in Elixir. Based on cucumber
+* Lots of silly mistakes
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Climate 🌱
+Want to help me reduce my climate impact? Then visit here to donate: https://offset.earth/mottraziers
