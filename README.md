@@ -23,4 +23,4 @@ I'm a Stockholm 🇸🇪 (previously London 🇬🇧) based Software Developer w
 * Lots of silly mistakes
 
 ## Climate 🌳
-Want to help me reduce my climate impact? Then visit here to donate: https://offset.earth/mottraziers
+Want to help me reduce my climate impact? Then visit here to donate: [https://ecologi.com/mottraziers](https://ecologi.com/mottraziers)
