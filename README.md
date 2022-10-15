@@ -26,4 +26,8 @@ I'm a Stockholm 🇸🇪 (previously London 🇬🇧) based Software Developer w
 * Lots of silly mistakes
 
 ## Climate 🌳
-Want to help me reduce my climate impact? Then visit here to donate: [https://ecologi.com/mottraziers](https://ecologi.com/mottraziers)
+Want to help me reduce my climate impact? Then consider donating to one of the following:
+
+ * [ecologi.com/mottraziers](https://ecologi.com/mottraziers)
+ * [climeworks.com](http://climeworks.refr.cc/meadsteve)
+ * [mossy.earth (referral code: STE1I4U0RA)](https://mossy.earth/platform/registration)
