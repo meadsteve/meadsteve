@@ -13,12 +13,14 @@ I'm a Stockholm 🇸🇪 (previously London 🇬🇧) based Software Developer w
 * Avoiding writing code in the first place
 * Kanban
 * Walking
+* Picking mushrooms
+* Lake (both frozen and liquid) swimming
 
 ## Some Things I've Made 🔧
-* [The British food generator](https://british-food-generator.herokuapp.com)
-* [Are you a banana?](https://banana.meadsteve.dev)
-* [Is Seven?](https://isseven.herokuapp.com/)
-* [Dice API](http://roll.diceapi.com/) - roll some dice. But webscale
+* [The British food generator](https://https://british-food-generator.meadsteve.dev/)
+* [Are you a banana?](https://banana.meadsteve.dev/)
+* [Is Seven?](https://isseven.meadsteve.dev/)
+* [Dice API](https://github.com/meadsteve/DiceApi/) - roll some dice. But webscale
 * [Lagom](https://github.com/meadsteve/lagom) - A type based DI container for Python
 * [White Bread](https://github.com/meadsteve/white-bread) - Story BDD tool written in Elixir. Based on cucumber
 * Lots of silly mistakes
