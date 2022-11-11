@@ -38,3 +38,8 @@ Want to help me reduce my climate impact? Then consider donating to one of the f
  * [ecologi.com/mottraziers](https://ecologi.com/mottraziers)
  * [climeworks.com](http://climeworks.refr.cc/meadsteve)
  * [mossy.earth (referral code: STE1I4U0RA)](https://mossy.earth/platform/registration)
+
+## Other ways of finding me 👀
+ * <a rel="me" href="https://blog.meadsteve.dev">My Blog</a>
+ * <a rel="me" href="https://twitter.com/meadsteve">Twitter</a>
+ * <a rel="me" href="https://mastodon.green/web/@meadsteve">Mastodon</a>
