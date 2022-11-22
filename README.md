@@ -40,7 +40,7 @@ Want to help me reduce my climate impact? Then consider donating to one of the f
  * [mossy.earth](https://mossy.earth/platform/profiles/STE1I4U0RA/)
 
 ## Other ways of finding me 👀
- * <a rel="me" href="https://blog.meadsteve.dev">My Blog</a>
- * <a rel="me" href="https://twitter.com/meadsteve">Twitter</a>
- * <a rel="me" href="https://mastodon.green/web/@meadsteve">Mastodon</a>
+ * <a rel="nofollow me" href="https://blog.meadsteve.dev">My Blog</a>
+ * <a rel="nofollow me" href="https://twitter.com/meadsteve">Twitter</a>
+ * <a rel="nofollow me" href="https://fosstodon.org/@meadsteve">Mastodon</a>
 
