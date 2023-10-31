@@ -17,7 +17,7 @@ I'm a Stockholm 🇸🇪 (previously London 🇬🇧) based Software Developer w
 * Lake (both frozen and liquid) swimming
 
 ## Some Things I've Made 🔧
-* [The British food generator](https://https://british-food-generator.meadsteve.dev/)
+* [The British food generator](https://british-food-generator.meadsteve.dev/)
 * [Are you a banana?](https://banana.meadsteve.dev/)
 * [Is Seven?](https://isseven.meadsteve.dev/)
 * [Dice API](https://github.com/meadsteve/DiceApi/) - roll some dice. But webscale
