@@ -2,7 +2,6 @@
 I'm a Stockholm 🇸🇪 (previously London 🇬🇧) based Software Developer who has worked with a number of languages (including Python, PHP, JavaScript/TypeScript, C#, Elixir/Erlang) and environments. I work as a back-end consultant at [0+x](https://0x.se/).
 
 - 🔨 I’m currently working with: [Python](https://blog.meadsteve.dev/python), and [typescript](https://blog.meadsteve.dev/typescript).
-- 🌱 I’m currently learning: [rust](https://blog.meadsteve.dev/rust)
 - 💬 Ask me about: Types in Python
 - 📫 How to reach me: @meadsteve
 - 😄 Pronouns: he/him or they/them
