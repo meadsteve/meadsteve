@@ -40,6 +40,5 @@ Want to help me reduce my climate impact? Then consider donating to one of the f
 
 ## Other ways of finding me 👀
  * <a rel="nofollow me" href="https://blog.meadsteve.dev">My Blog</a>
- * <a rel="nofollow me" href="https://twitter.com/meadsteve">Twitter</a>
  * <a rel="nofollow me" href="https://fosstodon.org/@meadsteve">Mastodon</a>
 
