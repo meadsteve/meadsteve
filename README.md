@@ -1,5 +1,5 @@
 ## Steve Brazier - MeadSteve 🥳
-I'm a Stockholm 🇸🇪 (previously London 🇬🇧) based Software Developer who has worked with a number of languages (including Python, PHP, JavaScript/TypeScript, C#, Elixir/Erlang) and environments. I work as a back-end consultant at [0+x](https://0x.se/).
+I'm a Stockholm 🇸🇪 (previously London 🇬🇧) based Software Developer who has worked with a number of languages (including Python, PHP, JavaScript/TypeScript, C#, Elixir/Erlang) and environments.
 
 - 🔨 I’m currently working with: [Python](https://blog.meadsteve.dev/python), and [typescript](https://blog.meadsteve.dev/typescript).
 - 💬 Ask me about: Types in Python
